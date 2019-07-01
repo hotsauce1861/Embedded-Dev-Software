@@ -64,7 +64,7 @@
 
 ## Tool chains
 
-- [GNU Arm Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)
-
+- [GNU Arm Embedded Toolchain](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads)  适用于`Cortex-R`，`Cortex-M`；
 - [Make tool for Windows](http://gnuwin32.sourceforge.net/packages/make.htm)
+- [Pre-built Linaro GNU cross-toolchain binary archives](https://releases.linaro.org/components/toolchain/binaries/) 推荐使用Linaro的工具链；
 
