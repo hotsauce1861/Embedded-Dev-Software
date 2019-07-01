@@ -52,6 +52,10 @@
 
 ### J-link
 
+- [最新驱动的下载地址](https://www.segger.com/downloads/jlink/)
+
+- [Setup_JLinkARM_V408l](./driver/Setup_JLinkARM_V408l.exe) 相对来说十分稳定的一个版本的驱动，固件V7或者V8测试基本没有发现什么问题
+
 ### st-link
 
 ## System Image
